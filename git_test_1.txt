@@ -1,5 +1,5 @@
 this is git test file,noting to do.
 
-now,I change this little content.
+now,（这次我修改了中间的内容，并在工作区添加了个新文件）I change this little content.
 
 现在，我要试试中文了！
