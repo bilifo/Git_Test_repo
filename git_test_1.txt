@@ -1,3 +1,5 @@
 this is git test file,noting to do.
 
 now,I change this little content.
+
+现在，我要试试中文了！
